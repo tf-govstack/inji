@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "259470317171",
-    "project_id": "mosip-resident-app",
-    "storage_bucket": "mosip-resident-app.appspot.com"
+    "project_number": "305985203142",
+    "project_id": "inji-9b4b7",
+    "storage_bucket": "inji-9b4b7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "",
+        "mobilesdk_app_id": "1:305985203142:android:4a780d679dc0aa569ca0c7",
         "android_client_info": {
-          "package_name": "io.mosip.residentapp"
+          "package_name": "io.technoforte"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "305985203142-vrd8g4rt062pis22a2s2o9u4t85dof1b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
+          "current_key": "AIzaSyCmDicePbYvfrvtXmGVk7MEm_CZQmUrONw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "",
+              "client_id": "305985203142-vrd8g4rt062pis22a2s2o9u4t85dof1b.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
