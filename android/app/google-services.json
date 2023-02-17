@@ -7,6 +7,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:560270458665:android:1cbf4d8119abcbc00f4138",
+        "android_client_info": {
+          "package_name": "io.mosip.residentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560270458665-cigltvh2up1djk50su1n5gn69rhltc1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZGeF5001Js56ymEnIqVSZcY5pamACY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560270458665-cigltvh2up1djk50su1n5gn69rhltc1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:560270458665:android:b0e63055a5c78fb90f4138",
         "android_client_info": {
           "package_name": "io.technoforte.residentapp"
