@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "305985203142",
-    "project_id": "inji-9b4b7",
-    "storage_bucket": "inji-9b4b7.appspot.com"
+    "project_number": "560270458665",
+    "project_id": "tfinji-405e1",
+    "storage_bucket": "tfinji-405e1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:305985203142:android:4a780d679dc0aa569ca0c7",
+        "mobilesdk_app_id": "1:560270458665:android:b0e63055a5c78fb90f4138",
         "android_client_info": {
-          "package_name": "io.technoforte"
+          "package_name": "io.technoforte.residentapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "305985203142-vrd8g4rt062pis22a2s2o9u4t85dof1b.apps.googleusercontent.com",
+          "client_id": "560270458665-cigltvh2up1djk50su1n5gn69rhltc1m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCmDicePbYvfrvtXmGVk7MEm_CZQmUrONw"
+          "current_key": "AIzaSyDiZGeF5001Js56ymEnIqVSZcY5pamACY8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "305985203142-vrd8g4rt062pis22a2s2o9u4t85dof1b.apps.googleusercontent.com",
+              "client_id": "560270458665-cigltvh2up1djk50su1n5gn69rhltc1m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
