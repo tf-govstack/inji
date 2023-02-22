@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "560270458665",
-    "project_id": "tfinji-405e1",
-    "storage_bucket": "tfinji-405e1.appspot.com"
+    "project_number": "989946117309",
+    "project_id": "technoforte-55050",
+    "storage_bucket": "technoforte-55050.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:560270458665:android:1cbf4d8119abcbc00f4138",
+        "mobilesdk_app_id": "1:989946117309:android:1d4fd0177cc2585cdf4bd4",
         "android_client_info": {
           "package_name": "io.mosip.residentapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "560270458665-cigltvh2up1djk50su1n5gn69rhltc1m.apps.googleusercontent.com",
+          "client_id": "989946117309-o8frhjtmkurm5of1esji5pelootp9p0d.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDiZGeF5001Js56ymEnIqVSZcY5pamACY8"
+          "current_key": "AIzaSyBaykeWljL26FMevUlm_OXpqN40ctbJOqM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "560270458665-cigltvh2up1djk50su1n5gn69rhltc1m.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:560270458665:android:b0e63055a5c78fb90f4138",
-        "android_client_info": {
-          "package_name": "io.technoforte.residentapp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "560270458665-cigltvh2up1djk50su1n5gn69rhltc1m.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDiZGeF5001Js56ymEnIqVSZcY5pamACY8"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "560270458665-cigltvh2up1djk50su1n5gn69rhltc1m.apps.googleusercontent.com",
+              "client_id": "989946117309-o8frhjtmkurm5of1esji5pelootp9p0d.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
