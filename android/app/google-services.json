@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "259470317171",
-    "project_id": "mosip-resident-app",
-    "storage_bucket": "mosip-resident-app.appspot.com"
+    "project_number": "908649684054",
+    "project_id": "govestack",
+    "storage_bucket": "govestack.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "",
+        "mobilesdk_app_id": "1:908649684054:android:0e91909b507210cecdaff7",
         "android_client_info": {
           "package_name": "io.mosip.residentapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "908649684054-nkbvqshpqgm3urfm9dsgig9spfcbcb0n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
+          "current_key": "AIzaSyDHscNNWKAOaJkOBtgryz6EmRhRt-7V-Ks"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "",
+              "client_id": "908649684054-nkbvqshpqgm3urfm9dsgig9spfcbcb0n.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
