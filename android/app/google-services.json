@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "499802139495",
-    "project_id": "govstackb3",
-    "storage_bucket": "govstackb3.appspot.com"
+    "project_number": "288602399520",
+    "project_id": "onpremdev-a20a8",
+    "storage_bucket": "onpremdev-a20a8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:499802139495:android:077782081690758f7fddc2",
+        "mobilesdk_app_id": "1:288602399520:android:99492c4acbdb868539ed45",
         "android_client_info": {
           "package_name": "io.mosip.residentapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "499802139495-dlb02brvufoo1r37etmh32dfpprgruuu.apps.googleusercontent.com",
+          "client_id": "288602399520-oob140jtl04t64ovoekja7pknkhmrh6o.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDi3yVkVzG3gzXCiyh_S7aGm5prSwurzXo"
+          "current_key": "AIzaSyAAJ8zAs39XX6GFei3DkHrzpYnDKY3BsQQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "499802139495-dlb02brvufoo1r37etmh32dfpprgruuu.apps.googleusercontent.com",
+              "client_id": "288602399520-oob140jtl04t64ovoekja7pknkhmrh6o.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
