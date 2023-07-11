@@ -1,7 +1,7 @@
 name: ID PASS - MOSIP Resident Application Custom build
 
 env:
-  backendServiceDefaultUrl: https://api.govstack.idencode.link
+  backendServiceDefaultUrl: https://api.tfgov.idencode.link
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ on:
       backendServiceUrl:
         description: 'Backend service URL'
         required: true
-        default: 'https://api.govstack.idencode.link'
+        default: 'https://api.tfgov.idencode.link'
         type: string
       theme:
         description: 'Application Theme'
