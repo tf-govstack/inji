@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "782970491962",
-    "project_id": "e2egov",
-    "storage_bucket": "e2egov.appspot.com"
+    "project_number": "63491435491",
+    "project_id": "sandbox-37a72",
+    "storage_bucket": "sandbox-37a72.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:782970491962:android:037728bdbaa02e67fbd103",
+        "mobilesdk_app_id": "1:63491435491:android:21a02aa3262dfc35f9ced6",
         "android_client_info": {
           "package_name": "io.mosip.residentapp"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "782970491962-letvkkf883jb6590vrepktb0urprfatd.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBchj2mdQrMc6OlclZlFonKbqSdCbN1Ks0"
+          "current_key": "AIzaSyC9XYS1pXwIXnHh9Msg-E85Da-1XQUjc74"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "782970491962-letvkkf883jb6590vrepktb0urprfatd.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
