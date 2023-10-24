@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "63491435491",
-    "project_id": "sandbox-37a72",
-    "storage_bucket": "sandbox-37a72.appspot.com"
+    "project_number": "270501275321",
+    "project_id": "fir-2918a",
+    "storage_bucket": "fir-2918a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:63491435491:android:21a02aa3262dfc35f9ced6",
+        "mobilesdk_app_id": "1:270501275321:android:6766721812804bf4355d68",
         "android_client_info": {
           "package_name": "io.mosip.residentapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC9XYS1pXwIXnHh9Msg-E85Da-1XQUjc74"
+          "current_key": "AIzaSyBfrH0jH0Kam6NLV1agzyalquKpiqIa7TI"
         }
       ],
       "services": {
