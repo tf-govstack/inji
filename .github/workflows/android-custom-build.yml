@@ -1,7 +1,7 @@
 name: ID PASS - MOSIP Resident Application Custom build
 
 env:
-  backendServiceDefaultUrl: https://api-internal.tfgovidbb.sandbox-playground.com
+  backendServiceDefaultUrl: https://api.onpremb3.idencode.link
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ on:
       backendServiceUrl:
         description: 'Backend service URL'
         required: true
-        default: 'https://api-internal.tfgovidbb.sandbox-playground.com'
+        default: 'https://api.onpremb3.idencode.link'
         type: string
       theme:
         description: 'Application Theme'
