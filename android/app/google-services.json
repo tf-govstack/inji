@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578733923477",
+    "project_id": "onpremdev1",
+    "storage_bucket": "onpremdev1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578733923477:android:cdb572b431b4a26e49cf9c",
+        "android_client_info": {
+          "package_name": "io.mosip.residentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9qZgWt-yjvUhzamtXk6_cd9Itp1lDxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
